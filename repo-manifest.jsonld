@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/qdrant/examples/commit/25c7c2bc198d29acf0ebaca37d3ee66f511658ed",
       "git:hexsha": "25c7c2bc198d29acf0ebaca37d3ee66f511658ed",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
